@@ -1,5 +1,4 @@
 # bootcamp
 Get log
 spark
-sport
-split inform
+## I Nailed Git and GitHub
